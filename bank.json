@@ -1,0 +1,57 @@
+[
+  {
+    "username": "Caramell",
+    "password": "2007",
+    "account_list": [
+      {
+        "account_number": 1,
+        "balance": 459
+      },
+      {
+        "account_number": 2,
+        "balance": 1789
+      },
+      {
+        "account_number": 3,
+        "balance": 25
+      },
+      {
+        "account_number": 4,
+        "balance": 999
+      }
+    ]
+  },
+  {
+    "username": "Stella",
+    "password": "2017",
+    "account_list": []
+  },
+  {
+    "username": "Gimli",
+    "password": "11",
+    "account_list": [
+      {
+        "account_number": 1,
+        "balance": 50
+      },
+      {
+        "account_number": 2,
+        "balance": 50
+      },
+      {
+        "account_number": 4,
+        "balance": 999
+      }
+    ]
+  },
+  {
+    "username": "Lego",
+    "password": "2012",
+    "account_list": []
+  },
+  {
+    "username": "Rambo",
+    "password": "2022",
+    "account_list": []
+  }
+]
